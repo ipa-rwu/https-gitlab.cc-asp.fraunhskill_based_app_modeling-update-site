@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/de.fraunhofer.ipa.ros.feature_3.0.0.202410102339.jar" id="de.fraunhofer.ipa.ros.feature" version="3.0.0.202410102339"/>
+   <feature url="features/de.fraunhofer.ipa.toolings.feature_1.0.0.202410102339.jar" id="de.fraunhofer.ipa.toolings.feature" version="1.0.0.202410102339"/>
+</site>
